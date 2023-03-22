@@ -1,0 +1,23 @@
+body {
+    color:black;
+    background-color:#4988F4;
+    font-family:'Sono';
+    font-size:20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family:'Bebas Neue';
+    font-size:40px;
+}
+#websites img {
+    max-width:25%;
+    display:flex;
+    flex-direction:column;
+    padding: 10px;
+}
+#reviews p {
+    border: 2px solid black;
+    padding:10px;
+    text-align: center;
+    
+}
